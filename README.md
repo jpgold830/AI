@@ -2,11 +2,11 @@
 
 Welcome to the AI repository! This project aims to provide a comprehensive collection of resources, tutorials, and code examples for various artificial intelligence (AI) topics. Whether you're a beginner looking to get started with AI or an experienced practitioner seeking advanced techniques, this website has something for everyone..
 
-[![Hits](https://hits.sh/github.com/sapthesh/ai.svg?view=today-total)](https://hits.sh/github.com/sapthesh/ai/)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/sapthesh/ai)
-![GitHub repo size](https://img.shields.io/github/repo-size/sapthesh/ai)
-![GitHub issues](https://img.shields.io/github/issues/sapthesh/ai)
-![GitHub watchers](https://img.shields.io/github/watchers/sapthesh/ai?style=social)
+[![Hits](https://hits.sh/github.com/jpgold830/ai.svg?view=today-total)](https://hits.sh/github.com/jpgold830/ai/)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/jpgold830/ai)
+![GitHub repo size](https://img.shields.io/github/repo-size/jpgold830/ai)
+![GitHub issues](https://img.shields.io/github/issues/jpgold830/ai)
+![GitHub watchers](https://img.shields.io/github/watchers/jpgold830/ai?style=social)
 
 
 
